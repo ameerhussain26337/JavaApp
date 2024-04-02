@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101938960966",
+    "project_id": "ameerapp-6871f",
+    "storage_bucket": "ameerapp-6871f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101938960966:android:af825607fffd231ae4c847",
+        "android_client_info": {
+          "package_name": "com.ameerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-6P3VinFsUMaUIP0qT1Ph7cCSYTfZ2ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
